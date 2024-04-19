@@ -7,4 +7,4 @@ ITS-EM is a project that aims to emulate intelligent transport systems using var
 For detailed documentation, please refer to the [documentation](documentation_link_here).
 
 ## Schematic for Light System
-![Schematic for Light System](path_to_your_schematic_file_in_repository)
+![Schematic for Light System](Schematic_ITS_Light_System_2024-04-19.pdf)
