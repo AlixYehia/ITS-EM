@@ -1,3 +1,6 @@
+ /* Full project codes can be found at: https://github.com/AlixYehia
+
+
  /*   RFID system
  * Typical pin layout used:
  * -----------------------------------------------------------------------------------------
@@ -55,12 +58,12 @@ const int LightRelay = 3;
  /* light system */
 
 // Ultrasonic sensors system
-const int trigPin1 = 13;          // Ultrasonic sensor 1 trig pin
-const int echoPin1 = 14;          // Ultrasonic sensor 1 echo pin
+const int trigPin1 = 32;          // Ultrasonic sensor 1 trig pin
+const int echoPin1 = 33;          // Ultrasonic sensor 1 echo pin
 const int transistorPin1 = 8;     // Transistor control pin for shift register 1
-const int trigPin2 = 15;          // Ultrasonic sensor 2 trig pin
-const int echoPin2 = 16;          // Ultrasonic sensor 2 echo pin
-const int transistorPin2 = 17;    // Transistor control pin for shift register 2
+const int trigPin2 = 34;          // Ultrasonic sensor 2 trig pin
+const int echoPin2 = 35;          // Ultrasonic sensor 2 echo pin
+const int transistorPin2 = 36;    // Transistor control pin for shift register 2
 
 // Shift register pins
 const int DS = 12;               // DS - data serial
@@ -434,6 +437,7 @@ void loadCell() {
         lcd3.setCursor(0, 0);
         lcd3.print("  Over Loaded   ");
         delay(200);
+
     }
 
     if (digitalRead(taree) == LOW) {

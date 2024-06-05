@@ -1,0 +1,8 @@
+train: /content/yolo_data/images/train
+val: /content/yolo_data/images/val
+# test: ../test/images  (optional)
+
+
+# Classes
+nc: 16
+names: ['dog','person','cat','tv','car','meatballs','marinara sauce','tomato soup','chicken noodle soup','french onion soup','chicken breast','ribs','pulled pork','hamburger','cavity','license_plate']

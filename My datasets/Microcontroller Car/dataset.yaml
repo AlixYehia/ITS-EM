@@ -1,0 +1,8 @@
+train: C:\Users\aliye\yolo_data\images\train\
+val: C:\Users\aliye\yolo_data\images\val\
+# test: ../test/images  (optional)
+
+
+# Classes
+nc: 1
+names: ['car']
