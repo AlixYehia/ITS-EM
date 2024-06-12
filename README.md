@@ -15,5 +15,5 @@ My involvement extended to the deployment of AI and computer vision technologies
 ## Documentation
 For detailed documentation, please refer to the [documentation](Documents/ITS-EM%20Formal%20Report.docx).
 
-## Schematic for Light System
+## Schematic for Enhanced Light System
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-04-19.png)
