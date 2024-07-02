@@ -8,7 +8,7 @@ My role in the ITS-EM project was dynamic and multifaceted. I spearheaded the qu
 
 I immersed myself in the intricacies of system simulations, ensuring that each component seamlessly integrated with the others. From hardware configuration to coding, I was responsible for integrating the code for the entire system to function together. I took charge of the project's technical aspects, focusing on creating a coherent and easily maintainable system.
 
-My involvement extended to the deployment of AI and computer vision technologies, enriching the project's capabilities. Additionally, I undertook the monumental task of documenting the project's journey. This involved delving into a vast array of literature, meticulously reviewing papers, and distilling complex concepts into the comprehensive ITS-EM Formal Report.
+My involvement extended to the deployment of AI and computer vision technologies, enriching the project's capabilities. Additionally, I undertook the monumental task of documenting the project's journey. This involved delving into a vast array of literature, meticulously reviewing papers, and distilling complex concepts into the comprehensive ITS-EM Book.
 
 ## Documentation
 For detailed documentation, please refer to the [documentation](Documents/ITS-EM_Graduation_Book.pdf).
