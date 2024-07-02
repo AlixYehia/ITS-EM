@@ -15,3 +15,7 @@ For detailed documentation, please refer to the [documentation](Documents/ITS-EM
 
 ## Schematic for Enhanced Light System
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-06-27.svg)
+
+## Computer Vision and AI
+
+
