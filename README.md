@@ -17,8 +17,7 @@ For detailed documentation, please refer to the [documentation](Documents/ITS-EM
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-06-27.svg)
 
 ## Computer Vision and AI
-![](utils/0001.svg)
-![](utils/0002.svg)
+![](utils/0001.svg)![](utils/0002.svg)
 ![](utils/0003.svg)
 ![](utils/0004.svg)
 ![](utils/0005.svg)
