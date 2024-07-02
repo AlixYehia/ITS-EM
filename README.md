@@ -1,6 +1,4 @@
-# still in progress
-
-# ITS-EM (Intelligent Transport Systems Emulation Module)
+# Intelligent Transport Systems Emulation Module (ITS-EM)
 
 ## Project Description
 ITS-EM is a comprehensive project that simulates intelligent transport systems through the integration of diverse sensors and actuators. This system encompasses a range of functionalities, including fire suppression, automatic tolling, lighting control, weather monitoring, and truck weighing management systems. Additionally, it leverages computer vision and AI technologies for traffic monitoring and violation detection, enhancing overall transportation management and safety.
@@ -13,7 +11,7 @@ I immersed myself in the intricacies of system simulations, ensuring that each c
 My involvement extended to the deployment of AI and computer vision technologies, enriching the project's capabilities. Additionally, I undertook the monumental task of documenting the project's journey. This involved delving into a vast array of literature, meticulously reviewing papers, and distilling complex concepts into the comprehensive ITS-EM Formal Report.
 
 ## Documentation
-For detailed documentation, please refer to the [documentation](Documents/ITS-EM%20Formal%20Report.docx).
+For detailed documentation, please refer to the [documentation](Documents/ITS-EM_Graduation_Book.pdf).
 
 ## Schematic for Enhanced Light System
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-04-19.png)
