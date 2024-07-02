@@ -11,7 +11,7 @@ I immersed myself in the intricacies of system simulations, ensuring that each c
 My involvement extended to the deployment of AI and computer vision technologies, enriching the project's capabilities. Additionally, I undertook the monumental task of documenting the project's journey. This involved delving into a vast array of literature, meticulously reviewing papers, and distilling complex concepts into the comprehensive ITS-EM Formal Report.
 
 ## Documentation
-For detailed documentation, please refer to the [documentation](Documents/ITS-EM Graduation Book.docx).
+For detailed documentation, please refer to the [documentation](Documents/ITS-EM_Graduation_Book.docx).
 
 ## Schematic for Enhanced Light System
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-04-19.png)
