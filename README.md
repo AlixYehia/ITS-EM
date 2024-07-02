@@ -14,4 +14,4 @@ My involvement extended to the deployment of AI and computer vision technologies
 For detailed documentation, please refer to the [documentation](Documents/ITS-EM_Graduation_Book.pdf).
 
 ## Schematic for Enhanced Light System
-![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-04-19.png)
+![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-06-27.svg)
