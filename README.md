@@ -3,7 +3,7 @@
 ## Project Description
 ITS-EM is a comprehensive project that simulates intelligent transport systems through the integration of diverse sensors and actuators. This system encompasses a range of functionalities, including fire suppression, automatic tolling, lighting control, weather monitoring, and truck weighing management systems. Additionally, it leverages computer vision and AI technologies for traffic monitoring and violation detection, enhancing overall transportation management and safety.
 
-![Presentation Link](https://docs.google.com/presentation/d/1V8RBJFCrqOC-tag7L3ZRnW5d_6oPWTgM/edit?usp=drive_link&ouid=104931728493082077503&rtpof=true&sd=true) 
+[View the Presentation](https://docs.google.com/presentation/d/1V8RBJFCrqOC-tag7L3ZRnW5d_6oPWTgM/edit?usp=drive_link&ouid=104931728493082077503&rtpof=true&sd=true)
 
 ## Role and Contributions in the ITS-EM Project
 My role in the ITS-EM project was dynamic and multifaceted. I spearheaded the quest for innovative tools and methodologies, striving to craft the most effective strategies for implementing the project's core functions. I conceptualized and meticulously planned the five systems at the project's core, carefully selecting the materials essential for their construction.
