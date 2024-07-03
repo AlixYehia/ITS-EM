@@ -8,17 +8,25 @@ ITS-EM is a comprehensive project that simulates intelligent transport systems t
 ## Role and Contributions in the ITS-EM Project
 My role in the ITS-EM project was dynamic and multifaceted. I spearheaded the quest for innovative tools and methodologies, striving to craft the most effective strategies for implementing the project's core functions. I conceptualized and meticulously planned the five systems at the project's core, carefully selecting the materials essential for their construction.
 
-I immersed myself in the intricacies of system simulations, ensuring that each component seamlessly integrated with the others. From hardware configuration to coding, I was responsible for integrating the code for the entire system to function together. I took charge of the project's technical aspects, focusing on creating a coherent and easily maintainable system.
+I immersed myself in the intricacies of system simulations, ensuring that each component seamlessly integrated with the others. From hardware configuration to coding, I was responsible for integrating the code for the integrated systems to function together. I took charge of the project's technical aspects, focusing on creating a coherent and easily maintainable system.
 
 My involvement extended to the deployment of AI and computer vision technologies, enriching the project's capabilities. Additionally, I undertook the monumental task of documenting the project's journey. This involved delving into a vast array of literature, meticulously reviewing papers, and distilling complex concepts into the comprehensive ITS-EM Book.
 
 ## Documentation
 For detailed documentation, please refer to the [ITS-EM Book](Documents/ITS-EM_Graduation_Book.pdf).
 
+## Sample of the work
+
 ## Schematic for Enhanced Light System
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-06-27.svg)
 
 ## Computer Vision and AI
+
+# Custom Dataset Preparation and usage of Augmentation techniques for expansion
+![](utils/custom_dataset_augmentation.png)
+
+
+
 ![](utils/0001.svg)![](utils/0002.svg)
 ![](utils/0003.svg)
 ![](utils/0004.svg)
