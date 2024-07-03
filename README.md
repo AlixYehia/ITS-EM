@@ -15,14 +15,16 @@ My involvement extended to the deployment of AI and computer vision technologies
 ## Documentation
 For detailed documentation, please refer to the [ITS-EM Book](Documents/ITS-EM_Graduation_Book.pdf).
 
-## Sample of the work
+
+# Sample of the work
+
 
 ## Schematic for Enhanced Light System
 ![Schematic for Light System](utils/Schematic_ITS_Light_System_2024-06-27.svg)
 
-## Computer Vision and AI
+# Computer Vision and AI
 
-# Custom Dataset Preparation and usage of Augmentation techniques for expansion
+## Custom Dataset Preparation and usage of Augmentation techniques for expansion
 ![](utils/custom_dataset_augmentation.png)
 
 
