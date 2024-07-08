@@ -13,7 +13,7 @@ I immersed myself in the intricacies of system simulations, ensuring that each c
 My involvement extended to deploying AI and computer vision technologies, enriching the project's capabilities. Additionally, I undertook the task of documenting the project's journey. This involved delving into a vast array of literature, meticulously reviewing papers, and adding to the comprehensive ITS-EM Book.
 
 ## Documentation
-For detailed documentation, please refer to the [ITS-EM Book](Documents/ITS-EM_Graduation_Book.pdf).
+For detailed documentation, please refer to the [ITS-EM Book](https://drive.google.com/file/d/12P-qfl6ml71CUFh0LEgbUWC9Y-F2KPwD/view?usp=drive_link).
 
 
 # Sample of the work
