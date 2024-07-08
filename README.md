@@ -24,7 +24,11 @@ For detailed documentation, please refer to the [ITS-EM Book](Documents/ITS-EM_G
 
 
 # Computer Vision and AI
-[![Violation Case]()](https://drive.google.com/file/d/1ycqegICpJIfDYUsGRmJ0UoSQ0QRkdLdl/view?usp=drive_link))
+[![No Violation](utils/no violation.jpeg)](https://drive.google.com/file/d/170lICK4FRQ9mWbUs2A2TnqqJhbgYh_OA/view?usp=drive_link)
+
+
+[![Violation Case](utils/violation_case.jpeg)](https://drive.google.com/file/d/1ycqegICpJIfDYUsGRmJ0UoSQ0QRkdLdl/view?usp=drive_link))
+
 
 ## Custom Dataset Preparation and usage of Augmentation techniques for expansion
 ![](utils/custom_dataset_augmentation.png)
